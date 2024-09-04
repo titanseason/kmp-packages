@@ -8,15 +8,12 @@ These are the packages hosted in this repository:
 
 | Package | Issues | Description |
 |---------|--------|---------------|
-| [path_provider](./packages/path_provider/) |  |  |
+| [Battery](./packages/battery) |  |  |
+| [Connectivity](./packages/connectivity) |  |  |
+| [Device Info](./packages/device_info) |  |  |
+| [Network Info](./packages/network_info) |  |  |
+| [Package Info](./packages/package_info) |  |  |
+| [Sensor](./packages/sensor)  |  |  |
+| [Path Provider](./packages/path_provider)  |  |  |
 
-## Table of contents:
-
-[Battery](./packages/battery)
-[Connectivity](./packages/connectivity)
-[Device Info](./packages/device_info)
-[Network Info](./packages/network_info)
-[Package Info](./packages/package_info)
-[Sensor](./packages/sensor)
-[Path Provider](./packages/path_provider)
 
